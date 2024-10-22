@@ -1,6 +1,6 @@
 # 8-Puzzle Solver
 
-This project solves the 8-puzzle game using three search algorithms: BFS, DFS, and IDS. It uses a Tkinter-based GUI to visualize the solution process.
+This project solves the 8-puzzle game using four search algorithms: BFS, DFS, IDS and Heuristic Search (A*). It uses a Tkinter-based GUI to visualize the solution process.
 
 ## How to Run
 
